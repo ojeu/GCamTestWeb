@@ -1,0 +1,379 @@
+{
+  "vaultName": "my vault",
+  "lastExport": 1732848325300,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Excalidraw/Drawing 2024-11-29 10.44.48.excalidraw.md",
+    "Templates/Daily_Templates.md",
+    "2024-11-29.md",
+    "2024년 11월 15일.md",
+    "가장 소중한 사람 5명을 우선 순위로.md",
+    "김경은.md",
+    "맵퍼스.md",
+    "무.md",
+    "무제 파일.canvas",
+    "송승환.md",
+    "송하준.md",
+    "아ㄴ녕.md",
+    "자기소개 툴킷.md",
+    "타이탄의 도구들.md",
+    "툴킷랩 저널링.md",
+    "필리오.md",
+    "dhdhd.md",
+    "index.md",
+    "Welcome.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Excalidraw/Drawing 2024-11-29 10.44.48.excalidraw.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 3304,
+      "exportedPath": "excalidraw/drawing-2024-11-29-10.44.48.excalidraw.html",
+      "dependencies": []
+    },
+    "Templates/Daily_Templates.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 819,
+      "exportedPath": "templates/daily_templates.html",
+      "dependencies": []
+    },
+    "2024-11-29.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 0,
+      "exportedPath": "2024-11-29.html",
+      "dependencies": []
+    },
+    "2024년 11월 15일.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 2074,
+      "exportedPath": "2024년-11월-15일.html",
+      "dependencies": []
+    },
+    "가장 소중한 사람 5명을 우선 순위로.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 26,
+      "exportedPath": "가장-소중한-사람-5명을-우선-순위로.html",
+      "dependencies": []
+    },
+    "김경은.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 12,
+      "exportedPath": "김경은.html",
+      "dependencies": []
+    },
+    "맵퍼스.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 210,
+      "exportedPath": "맵퍼스.html",
+      "dependencies": []
+    },
+    "무.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 0,
+      "exportedPath": "무.html",
+      "dependencies": []
+    },
+    "무제 파일.canvas": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 137,
+      "exportedPath": "무제-파일.html",
+      "dependencies": []
+    },
+    "송승환.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 9,
+      "exportedPath": "송승환.html",
+      "dependencies": []
+    },
+    "송하준.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 30,
+      "exportedPath": "송하준.html",
+      "dependencies": []
+    },
+    "아ㄴ녕.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 25,
+      "exportedPath": "아ㄴ녕.html",
+      "dependencies": []
+    },
+    "자기소개 툴킷.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 3037,
+      "exportedPath": "자기소개-툴킷.html",
+      "dependencies": []
+    },
+    "타이탄의 도구들.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 55,
+      "exportedPath": "타이탄의-도구들.html",
+      "dependencies": []
+    },
+    "툴킷랩 저널링.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 5243,
+      "exportedPath": "툴킷랩-저널링.html",
+      "dependencies": []
+    },
+    "필리오.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 255,
+      "exportedPath": "필리오.html",
+      "dependencies": []
+    },
+    "dhdhd.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 87,
+      "exportedPath": "dhdhd.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 41,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Welcome.md": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 203,
+      "exportedPath": "welcome.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 7888,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 879,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 356,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 5136,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1732848325300,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
